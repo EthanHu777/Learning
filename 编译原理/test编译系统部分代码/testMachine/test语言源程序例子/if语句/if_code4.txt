@@ -1,0 +1,41 @@
+   0 BR    37
+   1 ENTER 3
+   2 LOADI 5
+   3 STO   2
+   4 LOAD  2
+   5 OUT  
+   6 RETURN
+   7 ENTER 3
+   8 IN   
+   9 STO   2
+  10 LOAD  2
+  11 LOADI 5
+  12 MULT 
+  13 STO   2
+  14 LOAD  2
+  15 OUT  
+  16 CAL   1
+  17 RETURN
+  18 ENTER 4
+  19 IN   
+  20 STO   2
+  21 LOAD  2
+  22 LOADI 10
+  23 EQ   
+  24 BRF   28
+  25 LOADI 5
+  26 STO   3
+  27 BR    34
+  28 LOADI 2
+  29 LOAD  2
+  30 LOADI 3
+  31 ADD  
+  32 MULT 
+  33 STO   3
+  34 LOAD  3
+  35 OUT  
+  36 RETURN
+  37 ENTER 2
+  38 CAL   18
+  39 CAL   7
+  40 RETURN

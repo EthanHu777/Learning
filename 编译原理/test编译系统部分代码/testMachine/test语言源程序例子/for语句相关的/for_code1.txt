@@ -1,0 +1,26 @@
+   0 BR    1
+   1 ENTER 4
+   2 IN   
+   3 STO   3
+   4 LOADI 0
+   5 STO   2
+   6 LOAD  2
+   7 LOADI 5
+   8 LES  
+   9 BRF   21
+  10 BR    16
+  11 LOAD  2
+  12 LOADI 1
+  13 ADD  
+  14 STO   2
+  15 BR    6
+  16 LOAD  3
+  17 LOADI 2
+  18 ADD  
+  19 STO   3
+  20 BR    11
+  21 LOAD  2
+  22 OUT  
+  23 LOAD  3
+  24 OUT  
+  25 RETURN

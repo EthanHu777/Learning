@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: testCG2015_2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\GUO\LOCALS~1\Temp\RSPB69.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/testCG2015_2.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Program Files\Microsoft Visual Studio\MyProjects\testCG2015_2\testCG2015_2.cpp"
+"C:\Program Files\Microsoft Visual Studio\MyProjects\testCG2015_2\testCG2015_2View.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\GUO\LOCALS~1\Temp\RSPB69.tmp" 
+Creating temporary file "C:\DOCUME~1\GUO\LOCALS~1\Temp\RSPB6A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/testCG2015_2.pdb" /debug /machine:I386 /out:"Debug/testCG2015_2.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\testCG2015_2.obj"
+".\Debug\testCG2015_2Doc.obj"
+".\Debug\testCG2015_2View.obj"
+".\Debug\testCG2015_2.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\GUO\LOCALS~1\Temp\RSPB6A.tmp"
+<h3>Output Window</h3>
+Compiling...
+testCG2015_2View.cpp
+Generating Code...
+Compiling...
+testCG2015_2.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+testCG2015_2.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

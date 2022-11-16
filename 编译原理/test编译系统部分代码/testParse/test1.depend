@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1423122941 source:e:\test1\testscan.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1423123940 source:e:\test1\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423137224 source:e:\test1\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423123940 source:e:\test2\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423210798 source:e:\test2\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423123940 source:e:\test3\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423214278 source:e:\test3\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423123940 source:e:\test4\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423280510 source:e:\test4\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423296415 source:e:\test5\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423123940 source:e:\test5\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423123940 source:f:\testparse\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423307436 source:f:\testparse\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423123940 source:e:\testparse\main.c
+	<stdio.h>
+	<ctype.h>
+
+1423472054 source:e:\testparse\testparse.c
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1423123940 source:e:\编译计科2013级\test编译系统最终版20150109\testparse\main.c
+	<stdio.h>
+	<ctype.h>
+

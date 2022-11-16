@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1416965633 source:e:\testmachine\testmain.cpp
+	<stdio.h>
+	<ctype.h>
+	<string>
+
+1423446353 source:e:\testmachine\testmachine.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<map>
+
+1416965633 source:e:\testmachine1\testmain.cpp
+	<stdio.h>
+	<ctype.h>
+	<string>
+
+1423470996 source:e:\testmachine1\testmachine.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<map>
+

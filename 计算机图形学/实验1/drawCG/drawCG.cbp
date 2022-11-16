@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="drawCG" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Win32 Release">
+				<Option output="C:/Users/奕生所爱/Desktop/计算机图形学/实验1/drawCG/Release/drawCG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-W" />
+					<Add option="-fexceptions" />
+					<Add option="-O2" />
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D_AFXDLL" />
+					<Add option="-D_MBCS" />
+				</Compiler>
+			</Target>
+			<Target title="Win32 Debug">
+				<Option output="C:/Users/奕生所爱/Desktop/计算机图形学/实验1/drawCG/Debug/drawCG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-W" />
+					<Add option="-fexceptions" />
+					<Add option="-g" />
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-D_AFXDLL" />
+					<Add option="-D_MBCS" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="MainFrm.cpp" />
+		<Unit filename="MainFrm.h" />
+		<Unit filename="ReadMe.txt" />
+		<Unit filename="Resource.h" />
+		<Unit filename="StdAfx.cpp" />
+		<Unit filename="StdAfx.h" />
+		<Unit filename="drawCG.cpp" />
+		<Unit filename="drawCG.h" />
+		<Unit filename="drawCG.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="drawCGDoc.cpp" />
+		<Unit filename="drawCGDoc.h" />
+		<Unit filename="drawCGView.cpp" />
+		<Unit filename="drawCGView.h" />
+		<Unit filename="res/Toolbar.bmp" />
+		<Unit filename="res/drawCG.ico" />
+		<Unit filename="res/drawCG.rc2" />
+		<Unit filename="res/drawCGDoc.ico" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

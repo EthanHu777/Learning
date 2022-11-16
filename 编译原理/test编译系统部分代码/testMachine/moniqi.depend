@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1084609128 source:d:\documents\bianyi\moniqi\testmain.c
+	<stdio.h>
+	<ctype.h>
+
+1416403993 source:d:\documents\bianyi\moniqi\testmachine.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1416965633 source:d:\documents\bianyi\moniqi\testmain.cpp
+	<stdio.h>
+	<ctype.h>
+	<string>
+
+1416965872 source:d:\documents\bianyi\moniqi\testmachine.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<map>
+

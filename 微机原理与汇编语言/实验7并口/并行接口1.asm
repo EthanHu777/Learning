@@ -1,0 +1,17 @@
+  ORG 100H
+A EQU 20H;8255的端口A地址 
+B EQU 22H;8255的端口B地址 
+C EQU 24H;8255的端口C地址 
+CON EQU 26H;8255的控制寄存器地址 
+
+START: 
+    MOV DX,CON
+    MOV AL,10011001B;A、B口工作方式0，A口输入,B口输出 
+    OUT DX,AL 
+MAIN:
+    MOV DX,A;A口输入 
+    IN  AL,DX
+    MOV DX,B;B口输出 
+    OUT DX,AL 
+    JMP MAIN
+END START
